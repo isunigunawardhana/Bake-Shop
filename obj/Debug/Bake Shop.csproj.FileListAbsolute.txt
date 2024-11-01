@@ -1,0 +1,60 @@
+H:\Bakery Shop\Bake Shop\Bake Shop\bin\Debug\Bake Shop.exe.config
+H:\Bakery Shop\Bake Shop\Bake Shop\bin\Debug\Bake Shop.exe
+H:\Bakery Shop\Bake Shop\Bake Shop\bin\Debug\Bake Shop.pdb
+H:\Bakery Shop\Bake Shop\Bake Shop\bin\Debug\MaterialSkin.dll
+H:\Bakery Shop\Bake Shop\Bake Shop\obj\Debug\Bake Shop.csproj.AssemblyReference.cache
+H:\Bakery Shop\Bake Shop\Bake Shop\obj\Debug\Bake Shop.csproj.SuggestedBindingRedirects.cache
+H:\Bakery Shop\Bake Shop\Bake Shop\obj\Debug\Bake_Shop.FrmDash.resources
+H:\Bakery Shop\Bake Shop\Bake Shop\obj\Debug\Bake_Shop.Properties.Resources.resources
+H:\Bakery Shop\Bake Shop\Bake Shop\obj\Debug\Bake Shop.csproj.GenerateResource.cache
+H:\Bakery Shop\Bake Shop\Bake Shop\obj\Debug\Bake Shop.csproj.CoreCompileInputs.cache
+H:\Bakery Shop\Bake Shop\Bake Shop\obj\Debug\Bake Shop.csproj.CopyComplete
+H:\Bakery Shop\Bake Shop\Bake Shop\obj\Debug\Bake Shop.exe
+H:\Bakery Shop\Bake Shop\Bake Shop\obj\Debug\Bake Shop.pdb
+H:\Bakery Shop\Bake Shop\Bake Shop\bin\Debug\Dapper.dll
+H:\Bakery Shop\Bake Shop\Bake Shop\bin\Debug\Dapper.xml
+D:\Bakery Shop\Bake Shop\Bake Shop\bin\Debug\Bake Shop.exe.config
+D:\Bakery Shop\Bake Shop\Bake Shop\bin\Debug\Bake Shop.exe
+D:\Bakery Shop\Bake Shop\Bake Shop\bin\Debug\Bake Shop.pdb
+D:\Bakery Shop\Bake Shop\Bake Shop\bin\Debug\Dapper.dll
+D:\Bakery Shop\Bake Shop\Bake Shop\bin\Debug\MaterialSkin.dll
+D:\Bakery Shop\Bake Shop\Bake Shop\bin\Debug\Dapper.xml
+D:\Bakery Shop\Bake Shop\Bake Shop\obj\Debug\Bake Shop.csproj.AssemblyReference.cache
+D:\Bakery Shop\Bake Shop\Bake Shop\obj\Debug\Bake Shop.csproj.SuggestedBindingRedirects.cache
+D:\Bakery Shop\Bake Shop\Bake Shop\obj\Debug\Bake_Shop.FrmDash.resources
+D:\Bakery Shop\Bake Shop\Bake Shop\obj\Debug\Bake_Shop.Properties.Resources.resources
+D:\Bakery Shop\Bake Shop\Bake Shop\obj\Debug\Bake Shop.csproj.GenerateResource.cache
+D:\Bakery Shop\Bake Shop\Bake Shop\obj\Debug\Bake Shop.csproj.CoreCompileInputs.cache
+D:\Bakery Shop\Bake Shop\Bake Shop\obj\Debug\Bake Shop.csproj.CopyComplete
+D:\Bakery Shop\Bake Shop\Bake Shop\obj\Debug\Bake Shop.exe
+D:\Bakery Shop\Bake Shop\Bake Shop\obj\Debug\Bake Shop.pdb
+C:\Users\User\Downloads\Bake Shop\Bake Shop\Bake Shop\bin\Debug\Bake Shop.exe.config
+C:\Users\User\Downloads\Bake Shop\Bake Shop\Bake Shop\bin\Debug\Bake Shop.exe
+C:\Users\User\Downloads\Bake Shop\Bake Shop\Bake Shop\bin\Debug\Bake Shop.pdb
+C:\Users\User\Downloads\Bake Shop\Bake Shop\Bake Shop\bin\Debug\Dapper.dll
+C:\Users\User\Downloads\Bake Shop\Bake Shop\Bake Shop\bin\Debug\MaterialSkin.dll
+C:\Users\User\Downloads\Bake Shop\Bake Shop\Bake Shop\bin\Debug\Dapper.xml
+C:\Users\User\Downloads\Bake Shop\Bake Shop\Bake Shop\obj\Debug\Bake Shop.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Bake Shop\Bake Shop\Bake Shop\obj\Debug\Bake Shop.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\Bake Shop\Bake Shop\Bake Shop\obj\Debug\Bake_Shop.FrmDash.resources
+C:\Users\User\Downloads\Bake Shop\Bake Shop\Bake Shop\obj\Debug\Bake_Shop.Properties.Resources.resources
+C:\Users\User\Downloads\Bake Shop\Bake Shop\Bake Shop\obj\Debug\Bake Shop.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Bake Shop\Bake Shop\Bake Shop\obj\Debug\Bake Shop.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Bake Shop\Bake Shop\Bake Shop\obj\Debug\Bake Shop.csproj.CopyComplete
+C:\Users\User\Downloads\Bake Shop\Bake Shop\Bake Shop\obj\Debug\Bake Shop.exe
+C:\Users\User\Downloads\Bake Shop\Bake Shop\Bake Shop\obj\Debug\Bake Shop.pdb
+C:\Bake Shop\Bake Shop\Bake Shop\obj\Debug\Bake Shop.csproj.AssemblyReference.cache
+C:\Bake Shop\Bake Shop\Bake Shop\obj\Debug\Bake Shop.csproj.SuggestedBindingRedirects.cache
+C:\Bake Shop\Bake Shop\Bake Shop\obj\Debug\Bake Shop.exe
+C:\Bake Shop\Bake Shop\Bake Shop\obj\Debug\Bake Shop.pdb
+C:\Bake Shop\Bake Shop\Bake Shop\bin\Debug\Bake Shop.exe.config
+C:\Bake Shop\Bake Shop\Bake Shop\bin\Debug\Bake Shop.exe
+C:\Bake Shop\Bake Shop\Bake Shop\bin\Debug\Bake Shop.pdb
+C:\Bake Shop\Bake Shop\Bake Shop\bin\Debug\Dapper.dll
+C:\Bake Shop\Bake Shop\Bake Shop\bin\Debug\MaterialSkin.dll
+C:\Bake Shop\Bake Shop\Bake Shop\bin\Debug\Dapper.xml
+C:\Bake Shop\Bake Shop\Bake Shop\obj\Debug\Bake_Shop.FrmDash.resources
+C:\Bake Shop\Bake Shop\Bake Shop\obj\Debug\Bake_Shop.Properties.Resources.resources
+C:\Bake Shop\Bake Shop\Bake Shop\obj\Debug\Bake Shop.csproj.GenerateResource.cache
+C:\Bake Shop\Bake Shop\Bake Shop\obj\Debug\Bake Shop.csproj.CoreCompileInputs.cache
+C:\Bake Shop\Bake Shop\Bake Shop\obj\Debug\Bake Shop.csproj.CopyComplete
